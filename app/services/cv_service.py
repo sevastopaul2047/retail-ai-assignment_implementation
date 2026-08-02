@@ -8,7 +8,6 @@ import json
 import os
 import pickle
 import tempfile
-import time
 from datetime import datetime, timezone
 
 import cv2
