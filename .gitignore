@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+.DS_Store
+.env
+
+# Large trained model artifacts - regenerate with the notebooks/train_*.py
+# scripts, or use Git LFS if you want to version them directly.
+# Comment these out if you want to commit the models as-is.
+# app/models/*.h5
+# app/models/*.pkl

@@ -1,0 +1,221 @@
+review_id,product,review_text,sentiment
+1,shoes,"Worst shoes I've ever purchased, do not recommend.",negative
+2,jacket,"Great jacket, fast delivery and works perfectly.",positive
+3,table lamp,"Very disappointed with this table lamp, poor quality.",negative
+4,handbag,"Terrible handbag, broke after two days.",negative
+5,backpack,"Really happy with this backpack, great value for money.",positive
+6,table lamp,"Not worth the money, this table lamp is cheaply made.",negative
+7,table lamp,"Received the wrong table lamp, very frustrating experience.",negative
+8,running shorts,"The running shorts exceeded my expectations, will buy again.",positive
+9,shoes,"The shoes is fine, though packaging could be better.",neutral
+10,t-shirt,"Worst t-shirt I've ever purchased, do not recommend.",negative
+11,t-shirt,"Great t-shirt, fast delivery and works perfectly.",positive
+12,laptop bag,"Super comfortable laptop bag, fits perfectly.",positive
+13,smartwatch,"The smartwatch is decent for the price, no complaints.",neutral
+14,water bottle,"Average water bottle, delivery took longer than expected.",neutral
+15,office chair,"Average office chair, delivery took longer than expected.",neutral
+16,smartwatch,The smartwatch doesn't match the pictures at all.,negative
+17,phone case,"Terrible phone case, broke after two days.",negative
+18,sneakers,"Very disappointed with this sneakers, poor quality.",negative
+19,laptop bag,"The laptop bag does what it says, nothing more nothing less.",neutral
+20,kitchen blender,"Best kitchen blender I've bought this year, highly recommend.",positive
+21,watch,"The watch exceeded my expectations, will buy again.",positive
+22,phone case,"Waste of money, the phone case is defective.",negative
+23,table lamp,"Not worth the money, this table lamp is cheaply made.",negative
+24,office chair,"The office chair exceeded my expectations, will buy again.",positive
+25,table lamp,"It's an average table lamp, works as expected.",neutral
+26,handbag,"Not worth the money, this handbag is cheaply made.",negative
+27,t-shirt,"The t-shirt does what it says, nothing more nothing less.",neutral
+28,watch,"Perfect watch, arrived earlier than expected.",positive
+29,t-shirt,"It's an average t-shirt, works as expected.",neutral
+30,office chair,This office chair stopped working within a week.,negative
+31,jacket,"Excellent quality jacket for the price, very satisfied.",positive
+32,table lamp,"Worst table lamp I've ever purchased, do not recommend.",negative
+33,bluetooth speaker,"Waste of money, the bluetooth speaker is defective.",negative
+34,backpack,"Best backpack I've bought this year, highly recommend.",positive
+35,phone case,"Terrible phone case, broke after two days.",negative
+36,jacket,"The jacket is fine, though packaging could be better.",neutral
+37,bluetooth speaker,"Waste of money, the bluetooth speaker is defective.",negative
+38,office chair,"Perfect office chair, arrived earlier than expected.",positive
+39,wallet,"The wallet is decent for the price, no complaints.",neutral
+40,shoes,"Average shoes, delivery took longer than expected.",neutral
+41,table lamp,"Worst table lamp I've ever purchased, do not recommend.",negative
+42,t-shirt,"Very disappointed with this t-shirt, poor quality.",negative
+43,wireless earbuds,"This wireless earbuds is exactly as described, five stars.",positive
+44,sunglasses,"Really happy with this sunglasses, great value for money.",positive
+45,wallet,"Very disappointed with this wallet, poor quality.",negative
+46,sneakers,"It's an average sneakers, works as expected.",neutral
+47,wireless earbuds,"Really happy with this wireless earbuds, great value for money.",positive
+48,wallet,"The wallet is okay, nothing special but does the job.",neutral
+49,yoga mat,"Terrible yoga mat, broke after two days.",negative
+50,kitchen blender,"The kitchen blender exceeded my expectations, will buy again.",positive
+51,backpack,"Perfect backpack, arrived earlier than expected.",positive
+52,phone case,"Okay phone case, might consider other brands next time.",neutral
+53,table lamp,"The table lamp is fine, though packaging could be better.",neutral
+54,yoga mat,"Really happy with this yoga mat, great value for money.",positive
+55,wallet,"Perfect wallet, arrived earlier than expected.",positive
+56,watch,"Really happy with this watch, great value for money.",positive
+57,watch,"Worst watch I've ever purchased, do not recommend.",negative
+58,kitchen blender,"This kitchen blender is exactly as described, five stars.",positive
+59,water bottle,"Average water bottle, delivery took longer than expected.",neutral
+60,phone case,"Super comfortable phone case, fits perfectly.",positive
+61,table lamp,"Excellent quality table lamp for the price, very satisfied.",positive
+62,shoes,"Very disappointed with this shoes, poor quality.",negative
+63,handbag,"Not worth the money, this handbag is cheaply made.",negative
+64,handbag,"Super comfortable handbag, fits perfectly.",positive
+65,backpack,"The backpack exceeded my expectations, will buy again.",positive
+66,watch,"Poor stitching on this watch, fell apart quickly.",negative
+67,running shorts,"Perfect running shorts, arrived earlier than expected.",positive
+68,yoga mat,"Received the wrong yoga mat, very frustrating experience.",negative
+69,laptop bag,"Fantastic laptop bag, customer service was also great.",positive
+70,bluetooth speaker,"This bluetooth speaker is exactly as described, five stars.",positive
+71,handbag,"Average handbag, delivery took longer than expected.",neutral
+72,t-shirt,"Great t-shirt, fast delivery and works perfectly.",positive
+73,watch,"Really happy with this watch, great value for money.",positive
+74,bluetooth speaker,"Best bluetooth speaker I've bought this year, highly recommend.",positive
+75,backpack,"Great backpack, fast delivery and works perfectly.",positive
+76,table lamp,"Great table lamp, fast delivery and works perfectly.",positive
+77,table lamp,"Absolutely love this table lamp, the quality is amazing!",positive
+78,backpack,"The backpack is fine, though packaging could be better.",neutral
+79,yoga mat,"Excellent quality yoga mat for the price, very satisfied.",positive
+80,handbag,"The handbag is fine, though packaging could be better.",neutral
+81,office chair,"The office chair exceeded my expectations, will buy again.",positive
+82,water bottle,"The water bottle is decent for the price, no complaints.",neutral
+83,table lamp,"This table lamp is exactly as described, five stars.",positive
+84,sneakers,"Excellent quality sneakers for the price, very satisfied.",positive
+85,running shorts,"The running shorts is okay, nothing special but does the job.",neutral
+86,handbag,"Terrible handbag, broke after two days.",negative
+87,wallet,"Poor stitching on this wallet, fell apart quickly.",negative
+88,wallet,"Great wallet, fast delivery and works perfectly.",positive
+89,phone case,"Average phone case, delivery took longer than expected.",neutral
+90,backpack,"Received the wrong backpack, very frustrating experience.",negative
+91,running shorts,"Excellent quality running shorts for the price, very satisfied.",positive
+92,handbag,"Waste of money, the handbag is defective.",negative
+93,running shorts,"Perfect running shorts, arrived earlier than expected.",positive
+94,sunglasses,"Not worth the money, this sunglasses is cheaply made.",negative
+95,t-shirt,"Not worth the money, this t-shirt is cheaply made.",negative
+96,jacket,"The jacket exceeded my expectations, will buy again.",positive
+97,phone case,"Terrible phone case, broke after two days.",negative
+98,running shorts,"Very disappointed with this running shorts, poor quality.",negative
+99,watch,"Really happy with this watch, great value for money.",positive
+100,kitchen blender,"Great kitchen blender, fast delivery and works perfectly.",positive
+101,kitchen blender,"The kitchen blender is decent for the price, no complaints.",neutral
+102,table lamp,"The table lamp exceeded my expectations, will buy again.",positive
+103,wallet,"Terrible wallet, broke after two days.",negative
+104,table lamp,"Worst table lamp I've ever purchased, do not recommend.",negative
+105,laptop bag,"The laptop bag is fine, though packaging could be better.",neutral
+106,laptop bag,"Really happy with this laptop bag, great value for money.",positive
+107,sneakers,"Perfect sneakers, arrived earlier than expected.",positive
+108,t-shirt,"Excellent quality t-shirt for the price, very satisfied.",positive
+109,sunglasses,"Poor stitching on this sunglasses, fell apart quickly.",negative
+110,handbag,"Very disappointed with this handbag, poor quality.",negative
+111,sunglasses,"Terrible sunglasses, broke after two days.",negative
+112,jacket,"The jacket exceeded my expectations, will buy again.",positive
+113,water bottle,"Really happy with this water bottle, great value for money.",positive
+114,table lamp,"Terrible table lamp, broke after two days.",negative
+115,jacket,"Really happy with this jacket, great value for money.",positive
+116,kitchen blender,"Perfect kitchen blender, arrived earlier than expected.",positive
+117,bluetooth speaker,The bluetooth speaker arrived damaged and customer support was unhelpful.,negative
+118,kitchen blender,"Absolutely love this kitchen blender, the quality is amazing!",positive
+119,watch,"It's an average watch, works as expected.",neutral
+120,kitchen blender,"Poor stitching on this kitchen blender, fell apart quickly.",negative
+121,bluetooth speaker,"The bluetooth speaker is fine, though packaging could be better.",neutral
+122,backpack,"The backpack is fine, though packaging could be better.",neutral
+123,wireless earbuds,"The wireless earbuds does what it says, nothing more nothing less.",neutral
+124,t-shirt,"Fantastic t-shirt, customer service was also great.",positive
+125,backpack,"The backpack is decent for the price, no complaints.",neutral
+126,laptop bag,"Fantastic laptop bag, customer service was also great.",positive
+127,yoga mat,"It's an average yoga mat, works as expected.",neutral
+128,water bottle,"Super comfortable water bottle, fits perfectly.",positive
+129,backpack,"Excellent quality backpack for the price, very satisfied.",positive
+130,watch,"Fantastic watch, customer service was also great.",positive
+131,phone case,"The phone case exceeded my expectations, will buy again.",positive
+132,wallet,"Fantastic wallet, customer service was also great.",positive
+133,table lamp,The table lamp doesn't match the pictures at all.,negative
+134,laptop bag,"The laptop bag is decent for the price, no complaints.",neutral
+135,sunglasses,"Absolutely love this sunglasses, the quality is amazing!",positive
+136,bluetooth speaker,"Super comfortable bluetooth speaker, fits perfectly.",positive
+137,t-shirt,"Received the wrong t-shirt, very frustrating experience.",negative
+138,wallet,"Very disappointed with this wallet, poor quality.",negative
+139,running shorts,"Excellent quality running shorts for the price, very satisfied.",positive
+140,bluetooth speaker,"Absolutely love this bluetooth speaker, the quality is amazing!",positive
+141,table lamp,"Not worth the money, this table lamp is cheaply made.",negative
+142,phone case,"Super comfortable phone case, fits perfectly.",positive
+143,laptop bag,"Worst laptop bag I've ever purchased, do not recommend.",negative
+144,bluetooth speaker,The bluetooth speaker doesn't match the pictures at all.,negative
+145,sneakers,"Really happy with this sneakers, great value for money.",positive
+146,bluetooth speaker,"Fantastic bluetooth speaker, customer service was also great.",positive
+147,wireless earbuds,"Waste of money, the wireless earbuds is defective.",negative
+148,office chair,"Poor stitching on this office chair, fell apart quickly.",negative
+149,sneakers,"The sneakers is decent for the price, no complaints.",neutral
+150,running shorts,"Perfect running shorts, arrived earlier than expected.",positive
+151,water bottle,This water bottle stopped working within a week.,negative
+152,watch,"Really happy with this watch, great value for money.",positive
+153,wireless earbuds,"Very disappointed with this wireless earbuds, poor quality.",negative
+154,smartwatch,"Super comfortable smartwatch, fits perfectly.",positive
+155,backpack,"The backpack exceeded my expectations, will buy again.",positive
+156,watch,"Best watch I've bought this year, highly recommend.",positive
+157,backpack,"This backpack is exactly as described, five stars.",positive
+158,phone case,This phone case stopped working within a week.,negative
+159,running shorts,"Excellent quality running shorts for the price, very satisfied.",positive
+160,office chair,This office chair stopped working within a week.,negative
+161,jacket,"Absolutely love this jacket, the quality is amazing!",positive
+162,laptop bag,"The laptop bag does what it says, nothing more nothing less.",neutral
+163,wallet,"This wallet is exactly as described, five stars.",positive
+164,backpack,"Great backpack, fast delivery and works perfectly.",positive
+165,water bottle,"Poor stitching on this water bottle, fell apart quickly.",negative
+166,smartwatch,"Received the smartwatch on time, quality is average.",neutral
+167,water bottle,"The water bottle does what it says, nothing more nothing less.",neutral
+168,table lamp,"Okay table lamp, might consider other brands next time.",neutral
+169,yoga mat,"Okay yoga mat, might consider other brands next time.",neutral
+170,backpack,"The backpack exceeded my expectations, will buy again.",positive
+171,wallet,This wallet stopped working within a week.,negative
+172,sunglasses,This sunglasses stopped working within a week.,negative
+173,sneakers,"Excellent quality sneakers for the price, very satisfied.",positive
+174,t-shirt,"Really happy with this t-shirt, great value for money.",positive
+175,jacket,"Excellent quality jacket for the price, very satisfied.",positive
+176,jacket,"Excellent quality jacket for the price, very satisfied.",positive
+177,bluetooth speaker,"Super comfortable bluetooth speaker, fits perfectly.",positive
+178,bluetooth speaker,"Terrible bluetooth speaker, broke after two days.",negative
+179,bluetooth speaker,"Fantastic bluetooth speaker, customer service was also great.",positive
+180,running shorts,"The running shorts is okay, nothing special but does the job.",neutral
+181,running shorts,"The running shorts does what it says, nothing more nothing less.",neutral
+182,kitchen blender,"Worst kitchen blender I've ever purchased, do not recommend.",negative
+183,bluetooth speaker,"Poor stitching on this bluetooth speaker, fell apart quickly.",negative
+184,table lamp,"Waste of money, the table lamp is defective.",negative
+185,yoga mat,"It's an average yoga mat, works as expected.",neutral
+186,yoga mat,"Absolutely love this yoga mat, the quality is amazing!",positive
+187,office chair,"Best office chair I've bought this year, highly recommend.",positive
+188,jacket,"The jacket is okay, nothing special but does the job.",neutral
+189,running shorts,"The running shorts is okay, nothing special but does the job.",neutral
+190,bluetooth speaker,"Best bluetooth speaker I've bought this year, highly recommend.",positive
+191,wireless earbuds,"The wireless earbuds is okay, nothing special but does the job.",neutral
+192,t-shirt,"Excellent quality t-shirt for the price, very satisfied.",positive
+193,t-shirt,"Received the wrong t-shirt, very frustrating experience.",negative
+194,bluetooth speaker,"The bluetooth speaker exceeded my expectations, will buy again.",positive
+195,yoga mat,"The yoga mat is okay, nothing special but does the job.",neutral
+196,handbag,The handbag doesn't match the pictures at all.,negative
+197,phone case,"Absolutely love this phone case, the quality is amazing!",positive
+198,backpack,"Not worth the money, this backpack is cheaply made.",negative
+199,smartwatch,"The smartwatch is fine, though packaging could be better.",neutral
+200,yoga mat,"Great yoga mat, fast delivery and works perfectly.",positive
+201,watch,This watch stopped working within a week.,negative
+202,kitchen blender,The kitchen blender arrived damaged and customer support was unhelpful.,negative
+203,laptop bag,The laptop bag arrived damaged and customer support was unhelpful.,negative
+204,laptop bag,"The laptop bag is okay, nothing special but does the job.",neutral
+205,running shorts,"The running shorts does what it says, nothing more nothing less.",neutral
+206,watch,"Great watch, fast delivery and works perfectly.",positive
+207,backpack,"Very disappointed with this backpack, poor quality.",negative
+208,sneakers,"Waste of money, the sneakers is defective.",negative
+209,running shorts,"The running shorts is okay, nothing special but does the job.",neutral
+210,bluetooth speaker,"Super comfortable bluetooth speaker, fits perfectly.",positive
+211,t-shirt,"Absolutely love this t-shirt, the quality is amazing!",positive
+212,yoga mat,"Average yoga mat, delivery took longer than expected.",neutral
+213,kitchen blender,"This kitchen blender is exactly as described, five stars.",positive
+214,bluetooth speaker,The bluetooth speaker arrived damaged and customer support was unhelpful.,negative
+215,sunglasses,"Waste of money, the sunglasses is defective.",negative
+216,table lamp,"Okay table lamp, might consider other brands next time.",neutral
+217,running shorts,"Worst running shorts I've ever purchased, do not recommend.",negative
+218,backpack,"Great backpack, fast delivery and works perfectly.",positive
+219,water bottle,"Excellent quality water bottle for the price, very satisfied.",positive
+220,running shorts,"Waste of money, the running shorts is defective.",negative

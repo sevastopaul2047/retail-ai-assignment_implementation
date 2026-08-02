@@ -1,0 +1,129 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening", "is anyone there", "hey there"],
+      "responses": ["Hello! Welcome to our store's support chat. How can I help you today?", "Hi there! What can I do for you?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "see you later", "goodbye", "thanks bye", "that's all"],
+      "responses": ["Goodbye! Have a great day.", "Thanks for chatting with us, see you soon!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thanks", "thank you", "that helps", "appreciate it"],
+      "responses": ["You're welcome!", "Happy to help!"]
+    },
+    {
+      "tag": "order_status",
+      "patterns": ["where is my order", "track my order", "order status", "has my order shipped", "when will my order arrive"],
+      "responses": ["You can track your order using the tracking link sent to your email, or share your order ID and I'll check the status."]
+    },
+    {
+      "tag": "cancel_order",
+      "patterns": ["cancel my order", "I want to cancel", "how do I cancel an order", "stop my order"],
+      "responses": ["You can cancel your order within 2 hours of placing it from the 'My Orders' page. Would you like me to start that for you?"]
+    },
+    {
+      "tag": "return_policy",
+      "patterns": ["what is your return policy", "can I return an item", "how do returns work", "return window"],
+      "responses": ["Items can be returned within 30 days of delivery if unused and in original packaging. Refunds are processed within 5-7 business days."]
+    },
+    {
+      "tag": "exchange_policy",
+      "patterns": ["can I exchange an item", "how do I exchange a product", "size exchange"],
+      "responses": ["Exchanges are free within 15 days of delivery for a different size or color, subject to stock availability."]
+    },
+    {
+      "tag": "refund_status",
+      "patterns": ["where is my refund", "refund status", "when will I get my refund"],
+      "responses": ["Refunds typically take 5-7 business days to reflect after we receive the returned item. Share your order ID for a precise update."]
+    },
+    {
+      "tag": "store_hours",
+      "patterns": ["what are your store hours", "when are you open", "store timings", "are you open today"],
+      "responses": ["Our stores are open Monday to Saturday, 10 AM to 9 PM, and Sunday 11 AM to 7 PM."]
+    },
+    {
+      "tag": "store_location",
+      "patterns": ["where is your store located", "store address", "nearest store"],
+      "responses": ["Please share your city or PIN code and I'll find the nearest store for you."]
+    },
+    {
+      "tag": "payment_methods",
+      "patterns": ["what payment methods do you accept", "can I pay with card", "do you accept UPI", "cash on delivery available"],
+      "responses": ["We accept credit/debit cards, UPI, net banking, popular wallets, and cash on delivery on eligible orders."]
+    },
+    {
+      "tag": "payment_failed",
+      "patterns": ["my payment failed", "payment not going through", "money deducted but order not placed"],
+      "responses": ["Sorry about that! If money was deducted but the order wasn't placed, it's usually auto-refunded within 5-7 business days."]
+    },
+    {
+      "tag": "shipping_cost",
+      "patterns": ["how much is shipping", "do you charge for delivery", "shipping fee"],
+      "responses": ["Shipping is free on orders above ₹499. A flat ₹49 delivery fee applies below that."]
+    },
+    {
+      "tag": "delivery_time",
+      "patterns": ["how long does delivery take", "delivery time", "how many days for delivery"],
+      "responses": ["Standard delivery takes 3-5 business days. Express delivery (1-2 days) is available in select cities."]
+    },
+    {
+      "tag": "product_availability",
+      "patterns": ["is this product in stock", "do you have this in stock", "product availability"],
+      "responses": ["Please share the product name or ID and I'll check current stock availability for you."]
+    },
+    {
+      "tag": "loyalty_program",
+      "patterns": ["do you have a loyalty program", "reward points", "membership benefits"],
+      "responses": ["Yes! Our loyalty program gives you 1 point per ₹100 spent, redeemable on future purchases, plus early access to sales."]
+    },
+    {
+      "tag": "discount_coupon",
+      "patterns": ["do you have any discount", "coupon code", "any offers today", "promo code"],
+      "responses": ["Check the 'Offers' tab in the app for current promo codes, or sign up for our newsletter for exclusive discounts."]
+    },
+    {
+      "tag": "product_complaint",
+      "patterns": ["I received a damaged product", "wrong item delivered", "product is defective"],
+      "responses": ["I'm sorry to hear that. Please raise a replacement request from 'My Orders' with a photo of the item, and we'll resolve it quickly."]
+    },
+    {
+      "tag": "size_guide",
+      "patterns": ["what size should I order", "size chart", "size guide"],
+      "responses": ["You can find our detailed size chart on each product page under the 'Size Guide' tab."]
+    },
+    {
+      "tag": "invoice_request",
+      "patterns": ["can I get an invoice", "GST invoice", "billing receipt"],
+      "responses": ["Your invoice is available for download from the order details page under 'Invoice'."]
+    },
+    {
+      "tag": "account_help",
+      "patterns": ["I forgot my password", "how do I reset my password", "can't log in"],
+      "responses": ["You can reset your password using the 'Forgot Password' link on the login page."]
+    },
+    {
+      "tag": "human_agent",
+      "patterns": ["I want to talk to a human", "connect me to an agent", "real person please"],
+      "responses": ["Sure, connecting you to a human support agent now. Please hold on."]
+    },
+    {
+      "tag": "feedback",
+      "patterns": ["I want to give feedback", "how do I leave a review", "rate my experience"],
+      "responses": ["We'd love your feedback! You can rate your order and leave a review from the 'My Orders' page."]
+    },
+    {
+      "tag": "warranty",
+      "patterns": ["is there a warranty", "warranty period", "how long is the warranty"],
+      "responses": ["Electronics carry a 1-year manufacturer warranty; check the product page for category-specific warranty terms."]
+    },
+    {
+      "tag": "bulk_order",
+      "patterns": ["can I place a bulk order", "corporate order", "wholesale pricing"],
+      "responses": ["For bulk or corporate orders, please email bulk-orders@smartretail.example with your requirements and we'll get back within 24 hours."]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+name: CI/CD - Smart Retail AI Platform
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install flake8
+
+      - name: Lint with flake8
+        run: |
+          flake8 app --max-line-length=120 --extend-ignore=E203,W503 --exclude=__pycache__
+
+      - name: Run tests
+        run: |
+          pytest tests/ -v
+
+  build-image:
+    needs: lint-and-test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build Docker image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: false
+          tags: smart-retail-ai:latest
+
+      # To actually push to a registry (Docker Hub / GHCR) and deploy to
+      # Render/Railway/Cloud Run, add your credentials as repo secrets and
+      # extend this job with `docker/login-action` + `docker push`, or trigger
+      # your chosen host's deploy hook here.
